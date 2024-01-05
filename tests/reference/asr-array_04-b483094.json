@@ -1,0 +1,13 @@
+{
+    "basename": "asr-array_04-b483094",
+    "cmd": "lc --show-asr --no-color {infile} -o {outfile} -extra-arg=\"\"",
+    "infile": "tests/../integration_tests/array_04.cpp",
+    "infile_hash": "dd38786061d4a19743e4c32c2a3ecb08193777f81a2a0d3e87af0f0a",
+    "outfile": null,
+    "outfile_hash": null,
+    "stdout": null,
+    "stdout_hash": null,
+    "stderr": "asr-array_04-b483094.stderr",
+    "stderr_hash": "6bb018d7347e0538aafec4933b0ec3e36fa039d5498879cc9885e324",
+    "returncode": -6
+}

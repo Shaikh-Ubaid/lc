@@ -1,0 +1,3 @@
+LCOMPILERS_ASSERT failed: $DIR/src/libasr/../libasr/asr.h
+function down_cast(), line number 40 at 
+f != nullptr
